@@ -9,5 +9,5 @@ I am also a Disney adult. I enjoy visiting the parks to experience the food and 
 # What I Hope to Learn
 A few years ago, a gallery client recommended the book Storytelling with Data, which I briefly read for an art event. Although I was intrigued by the concepts, I did not have the chance to finish it. When I saw that CMU offered a course called Telling Stories with Data, I knew I had to take it to deepen my understanding of data visualization. At CMU, almost every course involved some form of data analysis. As someone from a visual arts background, I am interested in learning the logical concepts behind data to help me communicate in business settings and build the skills to create visually pleasing and flawless graphics.
 
-#Portfolio
+# Portfolio
 Here is my portfolio, I hope you enjoy reading it through. 
