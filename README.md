@@ -1,3 +1,4 @@
+# Di's portfolio
 This is my public portfolio for Telling Stories with Data at CMU in Fall 2024 Mini2
 
 # About Me :smile:
