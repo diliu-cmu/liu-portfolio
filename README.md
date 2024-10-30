@@ -14,3 +14,6 @@ A few years ago, a gallery client recommended the book _Storytelling with Data_
 
 # Portfolio :wave:
 Here is my portfolio, I hope you enjoy reading it through. 
+## Assignments
+
+## Final Project
