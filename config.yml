@@ -1,0 +1,4 @@
+name: My Site
+theme: minima
+plugins:
+  - jemoji
