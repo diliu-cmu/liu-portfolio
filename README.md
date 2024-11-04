@@ -29,7 +29,6 @@ Here is my portfolio, I hope you enjoy reading it through.
    vizElement.parentNode.insertBefore(scriptElement, vizElement);  
 </script>
 
-<br/>
    
 
   
