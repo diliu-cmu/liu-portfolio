@@ -41,7 +41,7 @@ Here is my portfolio, I hope you enjoy reading it through.
  </script>
 
 
-In this graph, I used a subset of 2023 data of the general government debt as a percentage of GDP. The original dataset included 29 countries, and I want to focus on the countries with debt exceeding 100% of GDP. At times, including all countries can tell a more in-depth story. However, the graph can become very busy. 
+In this graph, I used a subset of 2023 data of the general government debt as a percentage of GDP. The original dataset included 29 countries, and I want to focus on the countries with debt exceeding 100% of GDP. At times, including all countries can tell a more in-depth story. However, the graph can become very busy.
 
 I chose to highlight Greece, which has the highest debt ratio compared to the other countries in the dataset. To draw attention to the high debt level and make Greece stand out, I used a contrasting color to help immediately guide the readers' eye to the prominent bar. Since the dataset indicates debt (bad), using red color would follow neurological conventions. Knowing that the left upper area is usually how readers start scanning the page, placing the emphasized information in this area can direct the readers to absorb the intended information quickly. For this reason, I made the title to emphasize Greece’s ranking first at the beginning of the sentence.
 
