@@ -55,5 +55,6 @@ To make Greece stand out and draw attention to its high debt, I used a contrasti
 
 [^1]:Berinato, Scott. Good charts workbook: Tips, tools, and exercises for making better data visualizations. (Boston, MA: Harvard Business Review Press, 2019), 48.
 
+[^2]:Berinato, Scott. Good charts workbook: Tips, tools, and exercises for making better data visualizations. (Boston, MA: Harvard Business Review Press, 2019), 49.
   
 ## Final Project
