@@ -45,9 +45,15 @@ Here is my portfolio, I hope you enjoy reading it through.
     vizElement.parentNode.insertBefore(scriptElement, vizElement);       
  </script>
 
-In this graph, I used a subset of 2023 data of the general government debt as a percentage of GDP. The original dataset included 29 countries, and I want to focus on the countries with debt exceeding 100% of GDP. At times, including all countries can tell a more in-depth story. However, the graph can become very busy.
+The heatmap visualization provides a more comprehensive view of the dataset. It captured detailed information across all available countries and years. While this data visualization can be helpful for people seeking to explore the full range of debt data, it lacks a clear emphasis on a specific story/message. At first glance, the data looks cluttered and overwhelming. A good aspect of this data visualization is the choice of orange and blue colors that align well with neurological conventions. [^1]
 
-I chose to highlight Greece, which has the highest debt ratio compared to the other countries in the dataset. To draw attention to the high debt level and make Greece stand out, I used a contrasting color to help immediately guide the readers' eye to the prominent bar. Since the dataset indicates debt (bad), using red color would follow neurological conventions. Knowing that the left upper area is usually how readers start scanning the page, placing the emphasized information in this area can direct the readers to absorb the intended information quickly. For this reason, I made the title to emphasize Greece’s ranking first at the beginning of the sentence.
+In the third graph, I used a subset of 2023 data of the general government debt. The original dataset included 29 countries, and I want to focus on the countries with debt exceeding 100% of GDP. By removing unnecessary data from the visualization, I can present the intended message more clearly. 
+
+I chose to highlight Greece, which has the highest debt ratio compared to the other countries in the dataset. Unlike the title of the heatmap, which reiterates what the data is showing (structure),[^2] I wrote the title for the third graph as “Greece Ranking First Among Countries with Government Gross Debt Exceeding 100% of GDP in 2023” to convey the key insight into Greece's particularly high debt level. 
+
+To make Greece stand out and draw attention to its high debt, I used a contrasting color to help immediately guide the readers' eye to the prominent bar. Since the dataset indicates debt (bad), using red color would follow neurological conventions. The heatmap from above also presents a similar idea, where higher debt is indicated with more intense red shading. Knowing that the left upper area is usually how readers start scanning the page, placing the emphasized information in this area can direct the readers to absorb the intended information quickly. For this reason, I made the title to emphasize Greece’s ranking first at the beginning of the sentence.
+
+[^1]:Berinato, Scott. Good charts workbook: Tips, tools, and exercises for making better data visualizations. (Boston, MA: Harvard Business Review Press, 2019), 48.
 
   
 ## Final Project
