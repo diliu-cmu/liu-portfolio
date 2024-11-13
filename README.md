@@ -1,4 +1,4 @@
-| [home page](https://diliu-cmu.github.io/liu-portfolio/) | [critique-by-design](Critique-by-design) | [final-project-part-one](final-project-part-one)
+| [home page](https://diliu-cmu.github.io/liu-portfolio/) | [Critique-by-design](Critique-by-design) | [final-project-part-one](final-project-part-one)
 
 # liu-portfolio
 This is my public portfolio for Telling Stories with Data at CMU in Fall 2024 Mini2
