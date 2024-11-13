@@ -1,3 +1,5 @@
+| [home page](https://diliu-cmu.github.io/liu-portfolio/) | [critique by design](Cirtique-by-design)
+
 # liu-portfolio
 This is my public portfolio for Telling Stories with Data at CMU in Fall 2024 Mini2
 
