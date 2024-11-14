@@ -38,6 +38,7 @@ The Stephen Few's method* was effective because it enabled me to analyze the vis
 
 ## Step three: Sketch out a Solution 
 
+<img width="642" alt="Screenshot 2024-11-14 at 6 30 24 PM" src="https://github.com/user-attachments/assets/8e557151-2a7f-4e29-8e36-8aebe830b474">
 
 ## Step four:  
 
