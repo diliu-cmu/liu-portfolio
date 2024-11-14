@@ -40,6 +40,9 @@ The Stephen Few's method* was effective because it enabled me to analyze the vis
 
 <img width="642" alt="Screenshot 2024-11-14 at 6 30 24 PM" src="https://github.com/user-attachments/assets/8e557151-2a7f-4e29-8e36-8aebe830b474">
 
+<img width="1141" alt="Screenshot 2024-11-14 at 6 31 26 PM" src="https://github.com/user-attachments/assets/1b9af6e2-cffb-4d0c-af64-af488055e29b">
+
+
 ## Step four:  
 
 
