@@ -38,4 +38,11 @@ The Stephen Few's method* was effective because it enabled me to analyze the vis
 
 ## Step three: Sketch out a Solution 
 
+
 ## Step four:  
+
+
+
+
+
+Few, Stephen. “Data Visualization Effectiveness Profile | Perceptual Edge.” Perceptual Edge, January 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf. 
