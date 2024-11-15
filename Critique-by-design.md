@@ -50,12 +50,17 @@ I have a few ideas for the solution: 1) I want to make the graph interactive, al
 
 ### User Interviews
 User Interview Feedback: Round 1
+
 Student 1
+
 A question came up about why I selected only three countries. I explained these were representative samples chosen for their distinct lifestyles. This feedback made me realize I may be making assumptions about the countries rather than accurately reflecting the data. To address this, I added a second redesign. A world map shows people's average time outside paid work across various regions, aiming to provide a more complete and nuanced view.
 
 User Interview Feedback: Round 2
+
 Student 2
+
 Marketing Savvy
+
 Positive Feedback: They liked the combination of graphs, which kept them engaged and allowed them to explore distinct lifestyles from each region. They also find the topic fun to explore.
 Suggestions for Improvement: They suggested to me that colors across both graphs should be somewhat similar. The darker color implies something more serious. While this darker hue logically reflects the non-work time data accuracy, it does not align with the positive nature of non-work activities. They also suggested I rethink the color scheme for Graph 1 and ensure consistency in color by country rather than by category.
 
