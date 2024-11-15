@@ -15,11 +15,17 @@ With increasing stress from long work hours in China and South Korea, many peopl
 ### Scale:
 
 Usefulness: 4
+
 Completeness: 8
+
 Perceptibility: 7
+
 Truthfulness: 8
+
 Intuitiveness: 7
+
 Aesthetics: 3
+
 Engagement: 3
 
 ### What stood out: 
@@ -56,18 +62,16 @@ The Stephen Few's method* was effective because it enabled me to analyze the vis
 
 ## Step four: Test the Solution
 
-Based on the above evaluation, I identified that my audience is a niche, specific people from or living in countries with higher-paid work hours. 
+Based on the above evaluation, I identified that my audience is a niche, specifically people from or living in countries with higher-paid work hours. 
 I have a few ideas for the solution: 1) I want to make the graph interactive, allowing users to hover for additional information. 2) I want to make the graph less overwhelming and remove the redundant and unnecessary variables, such as "Sleep." 3) Since "Sleep" is fairly consistent across countries, I will remove "Sleep" from the visual display and include the average sleep minutes as descriptive information in the subtitle. 4) Work with different graph types. My idea is to create an engaging story for a broad audience, especially for those with less time invested in reading and analyzing but interested in comparing lifestyles. So, the graph needs to be familiar and easy to understand.
 
 ### User Interviews
-User Interview Feedback: Round 1
-
+#### User Interview Feedback: Round 1
 Student 1
 
 A question came up about why I selected only three countries. I explained these were representative samples chosen for their distinct lifestyles. This feedback made me realize I may be making assumptions about the countries rather than accurately reflecting the data. To address this, I added a second redesign. A world map shows people's average time outside paid work across various regions, aiming to provide a more complete and nuanced view.
 
-User Interview Feedback: Round 2
-
+#### User Interview Feedback: Round 2
 Student 2
 
 Marketing Savvy
@@ -77,15 +81,16 @@ Suggestions for Improvement: They suggested to me that colors across both graphs
 
 ## Step five: Build your solution
 
-<div class='tableauPlaceholder' id='viz1731645705287' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JS&#47;JSTM9CNR5&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;JSTM9CNR5' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JS&#47;JSTM9CNR5&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>         
-<script type='text/javascript'>                
-  var divElement = document.getElementById('viz1731645705287');      
-  var vizElement = divElement.getElementsByTagName('object')[0];           
-  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}          
-  var scriptElement = document.createElement('script');                    
-  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';    
+<div class='tableauPlaceholder' id='viz1731680746067' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;N7&#47;N776ZRR2B&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;N776ZRR2B' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;N7&#47;N776ZRR2B&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>    
+<script type='text/javascript'>            
+  var divElement = document.getElementById('viz1731680746067');         
+  var vizElement = divElement.getElementsByTagName('object')[0];          
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='827px';}          
+  var scriptElement = document.createElement('script');           
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';           
   vizElement.parentNode.insertBefore(scriptElement, vizElement);           
 </script>
+
 
 
 I liked the idea of incorporating GDP per capita, but since my graph is meant for a broad audience, I decided to not use economic terms that might overwhelm some audience. After all, the goal is for this graph to be engaging, fun, and informative.
@@ -94,7 +99,9 @@ I liked the idea of incorporating GDP per capita, but since my graph is meant fo
 
 I started by redesigning the bar graph, which carries the core information. Initially, I selected three countries to represent each region’s paid work time, Leisure, and Life Necessities comparison. However, even with a new color scheme, the graph felt incomplete with such a limited dataset. Listing all countries would clutter the graph, so I grouped them by region instead. This approach provided a more complete picture by comparing each region’s non-work and work time. Although the side-by-side bar format presented a comparison, it required viewers to analyze the data themselves. I wanted to minimize this effort for them. My goal is to provide a direct answer to the audience. For my story, it is about showing people where they might want to move for more personal time and freedom. Given the limited data from my original dataset, I used Tableau’s calculation function to create a work-to-non-work time ratio, which is more precise than simply showing average non-work time.
 
-Design Adjustments: In terms of design, I realized the gray color scheme did not work well, as it blended with the gray map background. I imagined my audience coming to this graph after a long day, seeking a fresh perspective on a lifestyle for the future. Bright, colorful dots and bars could capture their attention and encourage them to engage a bit longer. The different circle sizes offer an intuitive way to interpret the data, and I added labels to provide additional context for those who prefer a quick overview. 
+In the map, I combined all non-paid work activities into a single 'Non-Work' category. The size of each circle represents the average minutes people spend on non-work activities in each region.
+
+Design Adjustments: In terms of design, I realized the gray color scheme did not work well, as it blended with the gray map background. I imagined my audience coming to this graph after a long day, seeking a fresh perspective on a lifestyle for the future. Bright, colorful dots and bars could capture their attention and encourage them to engage a bit longer. The different circle sizes offer an intuitive way to interpret the data, and I added labels to provide additional context for those who prefer a quick overview. Because the two graphs are related, I want the bar graph's color to carry a cohesive color scheme as the map. Each country in the bar graph is color-coded according to its region, matching the colors shown on the map.
 
 
 
