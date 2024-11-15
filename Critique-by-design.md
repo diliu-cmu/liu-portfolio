@@ -76,4 +76,12 @@ Suggestions for Improvement: They suggested to me that colors across both graphs
 </script>
 
 
+I liked the idea of incorporating GDP per capita, but since my graph is meant for a broad audience, I decided to not use economic terms that might overwhelm some audience. After all, the goal is for this graph to be engaging, fun, and informative.
+
+
+
+I started by redesigning the bar graph, which carries the core information. Initially, I selected three countries to represent each region’s paid work time, Leisure, and Life Necessities comparison. However, even with a new color scheme, the graph felt incomplete with such a limited dataset. Listing all countries would clutter the graph, so I grouped them by region instead. This approach provided a more complete picture by comparing each region’s non-work and work time. Although the side-by-side bar format presented a comparison, it required viewers to analyze the data themselves. I wanted to minimize this effort for them. My goal is to provide a direct answer to the audience. For my story, it is about showing people where they might want to move for more personal time and freedom. Given the limited data from my original dataset, I used Tableau’s calculation function to create a work-to-non-work time ratio, which is more precise than simply showing average non-work time.
+
+Design Adjustments: In terms of design, I realized the gray color scheme did not work well, as it blended with the gray map background. I imagined my audience coming to this graph after a long day, seeking a fresh perspective on a lifestyle for the future. Bright, colorful dots and bars could capture their attention and encourage them to engage a bit longer. The different circle sizes offer an intuitive way to interpret the data, and I added labels to provide additional context for those who prefer a quick overview. 
+
 Few, Stephen. “Data Visualization Effectiveness Profile | Perceptual Edge.” Perceptual Edge, January 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf. 
