@@ -84,4 +84,8 @@ I started by redesigning the bar graph, which carries the core information. Init
 
 Design Adjustments: In terms of design, I realized the gray color scheme did not work well, as it blended with the gray map background. I imagined my audience coming to this graph after a long day, seeking a fresh perspective on a lifestyle for the future. Bright, colorful dots and bars could capture their attention and encourage them to engage a bit longer. The different circle sizes offer an intuitive way to interpret the data, and I added labels to provide additional context for those who prefer a quick overview. 
 
+
+
 Few, Stephen. “Data Visualization Effectiveness Profile | Perceptual Edge.” Perceptual Edge, January 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf. 
+
+Ortiz-Ospina, Esteban, Charlie Giattino, and Max Roser. “Time Use.” Our World in Data, February 29, 2024. https://ourworldindata.org/time-use#:~:text=We%20spend%20the%20most%20time,where%20we%20see%20large%20differences. 
