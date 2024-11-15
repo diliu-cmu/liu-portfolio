@@ -12,7 +12,7 @@ With increasing stress from long work hours in China and South Korea, many peopl
 
 ## Step Two: Evaluation of the Graph
 
-### Scale:
+### Scale: 
 
 Usefulness: 4
 
