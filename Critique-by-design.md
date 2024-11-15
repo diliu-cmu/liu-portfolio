@@ -77,6 +77,7 @@ Student 2
 Marketing Savvy
 
 Positive Feedback: They liked the combination of graphs, which kept them engaged and allowed them to explore distinct lifestyles from each region. They also find the topic fun to explore.
+
 Suggestions for Improvement: They suggested to me that colors across both graphs should be somewhat similar. The darker color implies something more serious. While this darker hue logically reflects the non-work time data accuracy, it does not align with the positive nature of non-work activities. They also suggested I rethink the color scheme for Graph 1 and ensure consistency in color by country rather than by category.
 
 ## Step five: Build your solution
