@@ -7,9 +7,20 @@
 <img width="1082" alt="Time Use Image " src="https://github.com/user-attachments/assets/af601582-9722-4bba-88df-8fd854338e63">
 
 
-enter why I choose this graph, add resources and link
+
+With increasing stress from long work hours in China and South Korea, many people from these countries are considering relocation options. Personally, I am curious about how people in different countries spend their time each day. When I came across this article, I was immediately drawn to the colorful bar chart and detailed labels. I appreciate the information presented, and this chart seems to offer valuable insights worth exploring.
 
 ## Step Two: Evaluation of the Graph
+
+### Scale:
+
+Usefulness: 4
+Completeness: 8
+Perceptibility: 7
+Truthfulness: 8
+Intuitiveness: 7
+Aesthetics: 3
+Engagement: 3
 
 ### What stood out: 
 Completeness of the Data: The graph appears to be complete, which makes it valuable for audiences interested in specific aspects of time use, such as work hours or leisure across different countries. The graph also provides enough details for people seeking detailed and country-specific information. 
