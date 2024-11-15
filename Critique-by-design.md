@@ -43,8 +43,21 @@ The Stephen Few's method* was effective because it enabled me to analyze the vis
 <img width="1141" alt="Screenshot 2024-11-14 at 6 31 26 PM" src="https://github.com/user-attachments/assets/1b9af6e2-cffb-4d0c-af64-af488055e29b">
 
 
-## Step four:  
+## Step four: Test the Solution
 
+Based on the above evaluation, I identified that my audience is a niche, specific people from or living in countries with higher-paid work hours. 
+I have a few ideas for the solution: 1) I want to make the graph interactive, allowing users to hover for additional information. 2) I want to make the graph less overwhelming and remove the redundant and unnecessary variables, such as "Sleep." 3) Since "Sleep" is fairly consistent across countries, I will remove "Sleep" from the visual display and include the average sleep minutes as descriptive information in the subtitle. 4) Work with different graph types. My idea is to create an engaging story for a broad audience, especially for those with less time invested in reading and analyzing but interested in comparing lifestyles. So, the graph needs to be familiar and easy to understand.
+
+### User Interviews
+User Interview Feedback: Round 1
+Student 1
+A question came up about why I selected only three countries. I explained these were representative samples chosen for their distinct lifestyles. This feedback made me realize I may be making assumptions about the countries rather than accurately reflecting the data. To address this, I added a second redesign. A world map shows people's average time outside paid work across various regions, aiming to provide a more complete and nuanced view.
+
+User Interview Feedback: Round 2
+Student 2
+Marketing Savvy
+Positive Feedback: They liked the combination of graphs, which kept them engaged and allowed them to explore distinct lifestyles from each region. They also find the topic fun to explore.
+Suggestions for Improvement: They suggested to me that colors across both graphs should be somewhat similar. The darker color implies something more serious. While this darker hue logically reflects the non-work time data accuracy, it does not align with the positive nature of non-work activities. They also suggested I rethink the color scheme for Graph 1 and ensure consistency in color by country rather than by category.
 
 
 
