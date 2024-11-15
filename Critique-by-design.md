@@ -97,6 +97,6 @@ Design Adjustments: In terms of design, I realized the gray color scheme did no
 
 
 
-Few, Stephen. “Data Visualization Effectiveness Profile | Perceptual Edge.” Perceptual Edge, January 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf. 
+Few, Stephen. “Data Visualization Effectiveness Profile Perceptual Edge.” Perceptual Edge, January 2017. https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf. 
 
 Ortiz-Ospina, Esteban, Charlie Giattino, and Max Roser. “Time Use.” Our World in Data, February 29, 2024. https://ourworldindata.org/time-use#:~:text=We%20spend%20the%20most%20time,where%20we%20see%20large%20differences. 
