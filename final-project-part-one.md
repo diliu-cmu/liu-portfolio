@@ -12,7 +12,7 @@ In the arts sector, many organizations have embraced Diversity, Equity, Accessib
 Art organizations have long been spaces for cultural participation, with little generational variation in motivators for engaging with the arts across Millennials, Gen X, Baby Boomers, and Pre-War generations (Culture Track, “CT2017-Top-Line-Report”). Despite this, art programs often offer immersive experiences or educational activities that cater to the younger generations. Unfortunately, few programs address lifelong learning or support the overall well-being of older adults. By focusing on this growing demographic, art organizations have the potential to foster more inclusive space and support the needs of the aging society to become healthier and happier.  
 
 
-
+## Sketches
 
 ## Data Resources 
 
@@ -48,5 +48,7 @@ This is the complete 2017 Culture Track report, which includes all the survey qu
 
 “Untapped Opportunity: Older Americans & the Arts.” Culture Track. Accessed November 18, 2024. https://s28475.pcdn.co/wp-content/uploads/2022/06/CCTTUntappedOpportunity.pdf. 
 
-
 This report complements the AAM “Museums and Creative Aging” analysis perfectly. This report includes rich datasets and great data visualization examples. I plan to use its data to support the AAM analysis, particularly in the call-to-action section. Toward the end, the report also touches on social issues like systemic racism. I am still considering how and where to incorporate this information, as it could be crucial to highlight why art organizations have not widely included aging adults in their programs or addressed racism with the same urgency as other equity issues.
+
+
+## Method and Medium
