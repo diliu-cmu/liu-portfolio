@@ -9,7 +9,7 @@ The demographics of the U.S. are undergoing a transformation, with the aging pop
 
 In the arts sector, many organizations have embraced Diversity, Equity, Accessibility, and Inclusion (DEAI) initiatives to create welcoming environments. However, programs that are designed to empower older adults to engage with art and enhance their mental and physical well-being while challenging stereotypes about aging are still widely developed. According to Culture Track, the top five life priorities for people over 55 include having fun, seeking social connection, enjoying humor, and finding calm and stability. And the desire for meaningful social connections intensifies with age, often fulfilled through active participation and engagement in new cultural experiences. (Culture Track, “Untapped Opportunity”).
 
-Art organizations have long been spaces for cultural participation, with little generational variation in motivators for engaging with the arts across Millennials, Gen X, Baby Boomers, and Pre-War generations (Culture Track, “CT2017-Top-Line-Report”). Despite this, art programs often offer immersive experiences or educational activities that cater to the younger generations. Unfortunately, few programs address lifelong learning or support the overall well-being of older adults. There are nearly 30 art museums in the Bay Area. However, only one museum offers a program designed specifically for the elderly. As the Bay Area’s population ages, it is time for art organizations to embrace this demographic change and create more inclusive spaces that address the needs of older adults and support their well-being.
+Art organizations have long been spaces for cultural participation, with little generational variation in motivators for engaging with the arts across Millennials, Gen X, Baby Boomers, and Pre-War generations (Culture Track, “CT2017-Top-Line-Report”). Despite this, art programs often offer immersive experiences or educational activities that cater to the younger generations. Unfortunately, few programs address lifelong learning or support the overall well-being of older adults. There are nearly 30 art museums in the Bay Area. However, only one museum offers a program designed specifically for the elderly. As someone living in the Bay Area and actively involved in the art scene, I want to see a new change that brings more diversity to the art museums. As the Bay Area’s population ages, it is time for art organizations to embrace this demographic change and create more inclusive spaces that address the needs of older adults and support their well-being.
 
 
 ## Sketches
@@ -26,6 +26,7 @@ Art organizations have long been spaces for cultural participation, with little 
 
 
 ![IMG_0090](https://github.com/user-attachments/assets/2f8aac24-9e2b-4087-8111-40693682a80b)
+
 
 
 ## Data Resources 
@@ -77,3 +78,5 @@ This report complements the AAM “Museums and Creative Aging” analysis perfec
 
 
 ## Method and Medium
+
+I will use Shorthand to host and present my final story/project. For the data creation part, I will mainly use Tableau to recreate the data visualization. I also plan to use Canva to create simple data visualization if needed. I will use publicly available photographs to illustrate the Bay Area art scene. I intend for this final project on Shorthand to be informational and serve as a “pitch deck” because I am passionate about improving the art organization’s programs in the Bay Area. 
