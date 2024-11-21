@@ -17,6 +17,10 @@ Art organizations have long been spaces for cultural participation, with little 
 ![IMG_0092](https://github.com/user-attachments/assets/083e413c-11ce-4159-a8ad-476bf0ad72a3)
 
 
+![IMG_0088](https://github.com/user-attachments/assets/069033a4-f74e-4057-89b8-03c7455cf396)
+
+
+
 
 ## Data Resources 
 
