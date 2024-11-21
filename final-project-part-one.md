@@ -61,12 +61,12 @@ This article shows data on the accelerated aging of the population in the Bay Ar
 This report will serve as a primary source for citing national population data. The truthfulness of the Census data can add credibility to my article and help set an overarching reference point to support the discussion.
 
 
-- “Prime Time | Moma.” MoMA. Accessed November 18, 2024. https://www.moma.org/calendar/programs/63. 
+- “Prime Time Moma.” MoMA. Accessed November 18, 2024. https://www.moma.org/calendar/programs/63. 
 
 This source can be used as a case study and example of an art organization’s effort in supporting aging adults.
 
 
-- “Supporting Data | Culture Track.” Culture Track. Accessed November 18, 2024. https://s28475.pcdn.co/wp-content/uploads/2019/06/CT17_Supporting_Data.pdf. 
+- “Supporting Data Culture Track.” Culture Track. Accessed November 18, 2024. https://s28475.pcdn.co/wp-content/uploads/2019/06/CT17_Supporting_Data.pdf. 
 
 This is the complete 2017 Culture Track report, which includes all the survey questions asked to the respondents about cultural engagement. I plan to focus on the sections “Motivators and Barriers to Participation” and “Perception of Cultural Activities by Generation” to explore the differences and similarities in how different generations engage with art. Thiswill help build a strong case and statement for why and how art organizations should prioritize participation across all age groups.
 
