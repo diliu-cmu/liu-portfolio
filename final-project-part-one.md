@@ -14,6 +14,10 @@ Art organizations have long been spaces for cultural participation, with little 
 
 ## Sketches
 
+![IMG_0092](https://github.com/user-attachments/assets/083e413c-11ce-4159-a8ad-476bf0ad72a3)
+
+
+
 ## Data Resources 
 
 - “Arts Participation Patterns in 2022: Highlights from the Survey of Public Participation in the Arts.” National Endowment for the Arts. Accessed November 18, 2024. https://www.arts.gov/impact/research/publications/arts-participation-patterns-2022-highlights-survey-public-participation-arts. 
