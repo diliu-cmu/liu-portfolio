@@ -45,22 +45,23 @@ After I clarified that the target audience is art professionals working in educa
 
 **Do you understand each graph and its interpretation? Does each graph convey trueness, completeness, and perceptibility?**
 
-1.Percent of U.S. Adults Visiting Art Museums/Galleries : This graph is difficult to interpret because of the many age brackets. It is hard to follow, and by the time she got to the bottom of the older age group, she had already lost her main focus. Moreover, the visualization doesn’t align well with the paragraph above, which focuses on the misconception that older adults visit museums frequently. Instead, this graph compares museum visitorship over two years, which drives away from the intended narrative that older adults’ museum participation is low. She suggested that I simplify the data.
+1-Percent of U.S. Adults Visiting Art Museums/Galleries : This graph is difficult to interpret because of the many age brackets. It is hard to follow, and by the time she got to the bottom of the older age group, she had already lost her main focus. Moreover, the visualization doesn’t align well with the paragraph above, which focuses on the misconception that older adults visit museums frequently. Instead, this graph compares museum visitorship over two years, which drives away from the intended narrative that older adults’ museum participation is low. She suggested that I simplify the data.
 
-2.Population of People Age 65+ Outnumbering Children in 2034: This is a very visually appealing graph.However, she found a lost connection between the paragraphs described above. The population numbers are very close. After I explained the graph to her, she understood it better. Adding a title should make it more understandable. 
+2-Population of People Age 65+ Outnumbering Children in 2034: This is a very visually appealing graph.However, she found a lost connection between the paragraphs described above. The population numbers are very close. After I explained the graph to her, she understood it better. Adding a title should make it more understandable. 
 
-3.Life Expectancy Graph: The Tableau data was not rendered correctly on Shorthand, which affected readability. The slight decline in 2020 draws the wrong attention and distracts the audience from the main message about increasing life expectancy over time. 
+3-Life Expectancy Graph: The Tableau data was not rendered correctly on Shorthand, which affected readability. The slight decline in 2020 draws the wrong attention and distracts the audience from the main message about increasing life expectancy over time. 
 
-4.Life Priorities Comparison Between Older and Younger Adults: The title is unclear and does not communicate the intended message. The graph does not show a significant difference between the two age groups, which confused the interviewee. It seems to contradict the narrative’s goal of highlighting that older adults desire fun and social connections just as much as younger people. 
+4-Life Priorities Comparison Between Older and Younger Adults: The title is unclear and does not communicate the intended message. The graph does not show a significant difference between the two age groups, which confused the interviewee. It seems to contradict the narrative’s goal of highlighting that older adults desire fun and social connections just as much as younger people. 
 
 **If the data visualization is not clear in conveying the story (or simply not clear in design), what adjustments and changes would you suggest?**
 
-1.Percent of U.S. Adults Visiting Art Museums/Galleries: Simplify the data by grouping age brackets into two categories: those older than 55 and those younger than 55. Calculate the average percentage for each group and show the data as a side-by-side bar chart, categorized by year. This change will make the graph easier to follow and align more closely with the narrative about the low participation of older adults in museums.
+1-Percent of U.S. Adults Visiting Art Museums/Galleries: Simplify the data by grouping age brackets into two categories: those older than 55 and those younger than 55. Calculate the average percentage for each group and show the data as a side-by-side bar chart, categorized by year. This change will make the graph easier to follow and align more closely with the narrative about the low participation of older adults in museums.
 
-2.Population of People Age 65+ Outnumbering Children in 2034: Add a title to the graph. Consider including another visualization next to this current graph showing that one in five people will be aged 65 or older by 2034. The interviewee thinks this is a strong statement and can be visualized to make more impact. 
+2-Population of People Age 65+ Outnumbering Children in 2034: Add a title to the graph. Consider including another visualization next to this current graph showing that one in five people will be aged 65 or older by 2034. The interviewee thinks this is a strong statement and can be visualized to make more impact. 
 
-3.Life Expectancy Graph: Remove the 2020 data point from the graph to avoid distracting the audience with the slight decline during that year. Narrow the timeline to focus on recent years. Emphasizing the gap between life expectancy in the America's and the World's.  
-4.Life Priorities Comparison Between Older and Younger People: The original data included the top five life priorities for both older and younger adults, but my design didn’t fully convey the importance of this information. To make the graph clearer, she suggested that I show the full top five list. Make them a side-by-side horizontal bar chart. Instead of using colors for each category, present the graph in two steps- First, highlight “having fun” across both bar charts to emphasize its importance for all ages. Second, highlight “social connection” to show its significance, especially for older adults.
+3-Life Expectancy Graph: Remove the 2020 data point from the graph to avoid distracting the audience with the slight decline during that year. Narrow the timeline to focus on recent years. Emphasizing the gap between life expectancy in the America's and the World's.  
+
+4-Life Priorities Comparison Between Older and Younger People: The original data included the top five life priorities for both older and younger adults, but my design didn’t fully convey the importance of this information. To make the graph clearer, she suggested that I show the full top five list. Make them a side-by-side horizontal bar chart. Instead of using colors for each category, present the graph in two steps- First, highlight “having fun” across both bar charts to emphasize its importance for all ages. Second, highlight “social connection” to show its significance, especially for older adults.
 
 **Are there any gaps in the narrative and data? What would you like to see that is missing in the story?**
 
@@ -84,23 +85,23 @@ Yes, the story does inspire interest in change because it shows an issue that ex
 
 **Do you understand each graph and its interpretation? Does each graph convey trueness, completeness, and perceptibility?**
 
-1. Percent of U.S. Adults Visiting Art Museums/Galleries:
+1-Percent of U.S. Adults Visiting Art Museums/Galleries:
 lost track of its main purpose. Instead of showing the decline in participation between the two years, it should highlightthe percentage differences between the age groups. This would better align with the narrative.
 
-2.Population of People Age 65+ Outnumbering Children in 2034: The scale of the icon is confusing and makes it hard to compare the data. The graph is engaging but needs adjustments to better reflect the message and clarify the comparison.
+2-Population of People Age 65+ Outnumbering Children in 2034: The scale of the icon is confusing and makes it hard to compare the data. The graph is engaging but needs adjustments to better reflect the message and clarify the comparison.
 
-3. Life Expectancy: the interviewee liked this graph and noted the only change is to formatted it to fit the Shorthand page better for easier viewing.
+3-Life Expectancy: the interviewee liked this graph and noted the only change is to formatted it to fit the Shorthand page better for easier viewing.
  
-4.Life Priorities Comparison Between Older and Younger Adults:
+4-Life Priorities Comparison Between Older and Younger Adults:
 There is an error in the graph-the numbers for the age groups in the "Social Connection" bar are flipped. The graph is also unclear because the percentages for "Having Fun" and "Social Connections" are very similar between the two groups.
 
 **If the data visualization is not clear in conveying the story (or simply not clear in design), what adjustments and changes would you suggest?**
 
-1.Percent of U.S. Adults Visiting Art Museums/Galleries:Group the ages into two categories: 65 +, and younger than 65. Focus on showing the percent change in participation between these two groups over the years.
+1-Percent of U.S. Adults Visiting Art Museums/Galleries:Group the ages into two categories: 65 +, and younger than 65. Focus on showing the percent change in participation between these two groups over the years.
 
-2. Population of People Age 65+ Outnumbering Children in 2034:Adjust the scale of the icons, making the "child" icon larger and more proportional to the "adult" icon. Add a clear title or statement to make sure the audience quickly understands the message being conveyed.
+2-Population of People Age 65+ Outnumbering Children in 2034:Adjust the scale of the icons, making the "child" icon larger and more proportional to the "adult" icon. Add a clear title or statement to make sure the audience quickly understands the message being conveyed.
 
-4.Life Priorities Comparison Between Older and Younger People: Swap the percentages for the "Social Connection" bar to correct the error between the 55+ group and people younger than 55. Consider framing "55+" as the "older population" consistently throughout the graph to reduce confusion because the story focuses on people aged 65 and older. To avoid misinterpretation, add a note to clarify that the original data categorized the groups as 55+ and younger than 55.
+4-Life Priorities Comparison Between Older and Younger People: Swap the percentages for the "Social Connection" bar to correct the error between the 55+ group and people younger than 55. Consider framing "55+" as the "older population" consistently throughout the graph to reduce confusion because the story focuses on people aged 65 and older. To avoid misinterpretation, add a note to clarify that the original data categorized the groups as 55+ and younger than 55.
 
 **Are there any gaps in the narrative and data? What would you like to see that is missing in the story?**
 
@@ -146,3 +147,16 @@ The interviewee made a great point about being consistent in describing the age 
 - Graphs: There are quite a few issues for the graphs(since this is still the very first version of data visualization) Clarity and how well the graphs connect to the accompanying text were common concerns raised by interviewees. 
 
 - Overall takeaway: Interviewee 3 gave a valuable point that could enhance the story’s persuasiveness. The "How" aspect of the narrative. Specifically, how to create and implement programs for the aging population could be better integrated into the call to action. This feedback helped clarify an area where I have struggled most, which is connecting my ideas and making the story flow seamlessly.
+
+
+# Changes I Plan to Make
+
+- **Graph Revisions**:I plan to take the interviewees' feedback and make corrections to each graph to improve clarity.
+
+- **Research on Funding for Elderly Education Programs**: I plan to research how Bay Area art museums can access funding for programs targeted at the aging population.
+
+- **Improving Story Structure and Flow**: I will work on reorganizing the story to create a smoother, more logical storyline. This includes refining transitions between each section, making title pages, changing the image of the old person laughing, and bolding important text and numbers.
+
+- **Exploring Unique Traits of the Bay Area’s Aging Population**: Based on the professor's feedback, I may incorporate a focus on the unique characteristics of the Bay Area’s aging population. The Bay Area has a high percentage of individuals who identify as Asian or Pacific Islander. This could add depth and specificity to the narrative, but I worry about narrowing the story too much. The primary goal is to target all Bay Area art museums, and focusing too heavily on this subgroup might distract from the call to action. From my previous research and work experience, elderly individuals from the Asian population in the Bay Area are less consistent museum visitors. This could limit the relevance of the focus to the overall narrative. I will still consider adding some specificity to the Bay Area story and decide whether to include it.
+
+- **Documenting the Data Visualization Process**: I have taken screenshots of the first version of the data visualizations. Changes to the graphs will be madebased on feedback from the interviews and the in-class critique on Shorthand. Since Shorthand does not document the history of changes, I want to capture the process here for reference. Please note that the Shorthand data viz is still being edited throughout. 
