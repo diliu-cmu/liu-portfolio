@@ -13,7 +13,15 @@ Reasons for making the change - Art museums struggle with the decline of museum 
 
 # Design: Data Visualization
 
-screenshotes of first version 
+screenshotes of first version
+
+**Data Viz Percent of U.S. Adults Visiting Art Museums/Galleries**
+
+![2McDq--percent-of-u-s-adult-visiting-art-museums-galleries-](https://github.com/user-attachments/assets/adba60a4-8791-4e32-81e6-20dee8354bfc)
+
+
+**Data viz 2-Population of People Age 65+ Outnumbering Children in 2034**
+
 
 # User Research Protocol
 
