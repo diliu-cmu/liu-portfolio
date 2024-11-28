@@ -20,7 +20,13 @@ screenshotes of first version
 ![2McDq--percent-of-u-s-adult-visiting-art-museums-galleries-](https://github.com/user-attachments/assets/adba60a4-8791-4e32-81e6-20dee8354bfc)
 
 
-**Data viz 2-Population of People Age 65+ Outnumbering Children in 2034**
+**Data viz Population of People Age 65+ Outnumbering Children in 2034**
+
+![76 5 Million-2](https://github.com/user-attachments/assets/db47d895-55a7-422a-b3bb-c3d6c11ea5b4)
+
+
+**Data Viz Life Expectancy Graph**
+
 
 
 # User Research Protocol
