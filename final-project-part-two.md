@@ -13,7 +13,7 @@ Reasons for making the change - Art museums struggle with the decline of museum 
 
 # Design: Data Visualization
 
-screenshotes of first version
+## screenshots of the main graphs from first version
 
 **Data Viz Percent of U.S. Adults Visiting Art Museums/Galleries**
 
@@ -29,7 +29,10 @@ screenshotes of first version
 
 <img width="1319" alt="Screenshot 2024-11-27 at 8 37 41 PM" src="https://github.com/user-attachments/assets/01fa76e7-3704-4641-a503-8cde56cd90d1">
 
+
 **Data Viz Life Priorities Comparison Between Older and Younger Adults**
+
+![76 5 Million](https://github.com/user-attachments/assets/8ff73f0b-6bbf-4098-bf3f-0e1a2ce875bd)
 
 
 
@@ -42,6 +45,7 @@ screenshotes of first version
 | Does the data visualization make sense in the story| Do you understand each graph and its interpretation? Does each graph convey trueness, completeness, and perceptibility?                     |
 |Design improvement | If the data visualization is not clear in conveying the story (or simply not clear in design), what adjustments and changes would you suggest?|
 |Identify missing elements| Are there any gaps in the narrative and data? What would you like to see that is missing in the story? |
+
 
 # User Research Findings
 
@@ -161,6 +165,7 @@ The interviewee made a great point about being consistent in describing the age 
 “While low on the priority list, the orange text against some of the backdrops is somewhat difficult/uncomfortable to read due to the saturation and lack of contrast. In particular, referring to the "Percent of U.S. Adult Visiting..." header. Additionally, go multi-model and use more hyperlinks/sources! “
 
 
+
 # Interview Synthesis
 
 - I noticed several issues from the interviews related to the story's organization and structure. While the information about the Bay Area’s aging population is compelling, the overall narrative needs better flow and stronger alignment with the graphs to make it more cohesive and impactful.
@@ -169,6 +174,7 @@ The interviewee made a great point about being consistent in describing the age 
 - Graphs: There are quite a few issues for the graphs(since this is still the very first version of data visualization) Clarity and how well the graphs connect to the accompanying text were common concerns raised by interviewees. 
 
 - Overall takeaway: Interviewee 3 gave a valuable point that could enhance the story’s persuasiveness. The "How" aspect of the narrative. Specifically, how to create and implement programs for the aging population could be better integrated into the call to action. This feedback helped clarify an area where I have struggled most, which is connecting my ideas and making the story flow seamlessly.
+
 
 
 # Changes I Plan to Make
