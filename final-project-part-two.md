@@ -33,6 +33,10 @@ Interviewee 2: Male, Student studying Arts Management
 
 Interviewee 3: Female, Art Educator 
 
+**Targeted Audience for the Story**
+
+Art educators, programming staff, art museum professionals in the Bar Area, California 
+
 ## Interview 1
 
 **Can you identify the target audience of this story - who is the story speaking to?**
