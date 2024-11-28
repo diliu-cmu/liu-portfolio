@@ -2,7 +2,7 @@
 
 # Wireframes and Storyboard
 
-Shorthand Link: 
+Shorthand Link: https://preview.shorthand.com/XsBYSglhwFTp6HAf
 
 After creating an initial story outline on my iPad last week, I began developing the writing and data visualizations on Shorthand. As I mentioned in the final project part one page, I envision my Shorthand page acting like a "Pitch Deck" that uses infographics and data visualization to raise awareness and spark interest for art administrators in thinking about the aging population and their participation in the arts.
 
