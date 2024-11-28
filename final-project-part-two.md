@@ -27,6 +27,10 @@ screenshotes of first version
 
 **Data Viz Life Expectancy Graph**
 
+<img width="1319" alt="Screenshot 2024-11-27 at 8 37 41 PM" src="https://github.com/user-attachments/assets/01fa76e7-3704-4641-a503-8cde56cd90d1">
+
+**Data Viz Life Priorities Comparison Between Older and Younger Adults**
+
 
 
 # User Research Protocol
