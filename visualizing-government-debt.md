@@ -1,1 +1,1 @@
-[visualizing-government-deb](https://diliu-cmu.github.io/liu-portfolio/)
+[visualizing-government-debt](https://diliu-cmu.github.io/liu-portfolio/)
