@@ -55,7 +55,7 @@ Crocker, Kristen. “New Studies Suggest Social Isolation Is a Risk Factor for D
 
 “Explore Risk of Social Isolation - Age 65+ in the United States: Ahr.” Explore Risk of Social Isolation - Age 65+ in the United States | AHR. Accessed December 6, 2024. https://www.americashealthrankings.org/explore/measures/isolationrisk_sr_b. 
 
-Humble, Laurel. “Moma | Prime Timers’ Thoughts on Aging and Art.” Inside/Out A MoMA/MoMA PS1 Blog, May 18, 2016. https://www.moma.org/explore/inside_out/2016/05/18/prime-timers-thoughts-on-aging-and-art/. 
+Humble, Laurel. “Moma Prime Timers’ Thoughts on Aging and Art.” Inside/Out A MoMA/MoMA PS1 Blog, May 18, 2016. https://www.moma.org/explore/inside_out/2016/05/18/prime-timers-thoughts-on-aging-and-art/. 
 
 Korhonen, Veera. “Senior Population of the U.S. by State 2021.” Statista, July 5, 2024. https://www.statista.com/statistics/736211/senior-population-of-the-us-by-state/. 
 
@@ -67,11 +67,11 @@ Merritt, Elizabeth. “Livable Communities for Our Elders.” American Alliance 
 
 Nickerson , Scooty, Harriet Rowan , and Bay Area News Group. “Every Bay Area County Is Aging Faster than the U.S.” Silicon Valley.Com, June 23, 2023. https://www.siliconvalley.com/2023/06/23/every-bay-area-county-is-aging-faster-than-the-u-s/. 
 
-“Prime Time | Moma.” MoMA. Accessed December 6, 2024. https://www.moma.org/calendar/programs/63. 
+“Prime Time Moma.” MoMA. Accessed December 6, 2024. https://www.moma.org/calendar/programs/63. 
 
 Richardson, Jim. “Film: Older Adults Make Their Mark at the Museum of Modern Art.” MuseumNext, April 19, 2016. https://www.museumnext.com/article/older-adults-make-their-mark-at-moma/. 
 
-“Social Isolation, Loneliness in Older People Pose Health Risks | National Institute on Aging.” National Institute of Aging. Accessed December 6, 2024. https://www.nia.nih.gov/news/social-isolation-loneliness-older-people-pose-health-risks. 
+“Social Isolation, Loneliness in Older People Pose Health Risks National Institute on Aging.” National Institute of Aging. Accessed December 6, 2024. https://www.nia.nih.gov/news/social-isolation-loneliness-older-people-pose-health-risks. 
 
 “Untapped Opportunity: Older Americans & the Arts.” Culturetrack. Accessed December 6, 2024. https://culturetrack.com/wp-content/uploads/2017/02/CT2017-Top-Line-Report.pdf. 
 
