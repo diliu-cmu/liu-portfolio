@@ -1,4 +1,4 @@
-| [home page](https://diliu-cmu.github.io/liu-portfolio/) | [critique by design](Cirtique-by-design)
+| [home page](https://diliu-cmu.github.io/liu-portfolio/) | [critique by design](Cirtique-by-design) | [visualizing-government-debt](visualizing-government-debt) | [final-project-part-one](final-project-part-one) | [final-project-part-two](final-project-part-two) | [final-project-part-three](final-project-part-three) |
 
 # Assignment 3&4
 
