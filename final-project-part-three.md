@@ -1,4 +1,4 @@
-[final-project-part-three](https://diliu-cmu.github.io/liu-portfolio/)
+| [home page](https://diliu-cmu.github.io/liu-portfolio/) | [visualizing-government-debt](visualizing-government-debt) | [Critique-by-design](Critique-by-design) | [final-project-part-one](final-project-part-one) | [final-project-part-two](final-project-part-two) | [final-project-part-three](final-project-part-three) |
 
 # The Final Story
 > link to shorthand
