@@ -6,8 +6,6 @@ This is my public portfolio for Telling Stories with Data at CMU in Fall 2024 Mi
 # About Me :smile:
 My name is Di Liu (she/her), and I am a second-year Master of Arts Management student at CMU. I studied art history during my undergraduate and am now pursuing a degree with a stronger business focus in the arts. Before coming to CMU, I worked in an art gallery in Palo Alto, California. Being at the heart of Silicon Valley exposed me to interdisciplinary artists who integrate technology and data into their work. Interacting with them made me realize how understanding data and visualization can offer fresh perspectives on art. One interdisciplinary artist I like is Leo Villareal. He combines LED lights and programmed codes to create ever-changing illuminated displays. His work shows a harmony between technology that transforms simple coding into mesmerizing data visualization patterns.
 
-![Leo Villareal, Large Cloud Drawing 2, 2018, LEDs, custom software, electrical hardware and metal, 68" × 68" (172.7 cm × 172.7 cm), Edition of 3 + 1 AP © Leo Villareal](https://www.pacegallery.com/media/images/69412.01.width-2000.jpg)
-
 
 I am also a Disney adult. I enjoy visiting the parks to experience the food and the latest rides and sharing tips and tricks online. I run a Disney-themed blog to help first-time visitors get familiar with Disneyland and make the most of their trips.
 
@@ -18,6 +16,18 @@ A few years ago, a gallery client recommended the book _Storytelling with Data_
 Here is my portfolio, I hope you enjoy reading it through. 
 
 ## Assignments
+
+### Assignment: [visualizing-government-debt](visualizing-govertment-debt)
+
+### Assignment 3&4: [Critique-by-design](Critique-by-design)
+
+### Final Project 
+
+#### [final-project-part-one](final-project-part-one)
+
+####  [final-project-part-two](final-project-part-two)
+
+#### [final-project-part-three](final-project-part-three)
 
 ### Government Debt Data From OECD
 ![chart_1](https://github.com/diliu-cmu/liu-portfolio/blob/main/export-2024-11-02T15_11_58.944Z.png?raw=true)
