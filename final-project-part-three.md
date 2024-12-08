@@ -1,7 +1,7 @@
 | [home page](https://diliu-cmu.github.io/liu-portfolio/) | [visualizing-government-debt](visualizing-government-debt) | [Critique-by-design](Critique-by-design) | [final-project-part-one](final-project-part-one) | [final-project-part-two](final-project-part-two) | [final-project-part-three](final-project-part-three) |
 
 # The Final Story
-> link to shorthand
+> link to shorthand : https://carnegiemellon.shorthandstories.com/aid-non-profit-organisation-annual-report/index.html
 
 # Changes Made Since Part One
 
@@ -16,25 +16,33 @@ The first draft I set my audience as the art administraos but did not sepecify a
 
 The story:
 
-There have been quite a few edits to the story flow since the second draft. I added more evidence to support the central statement and included a case study from Dr. Gen D. Cohen, demonstrating how art can improve overall health among older populations. The additional evidence on social isolation and loneliness as challenges for older adults also makes the story more impactful and emphasizes the need for action. 
+There have been quite a few edits to the story flow since the second draft. I added more evidence to support the central statement and included a paragraph of case study from Dr. Gen D. Cohen, demonstrating how art can improve overall health among older populations. The original story did not have the risk of social isolation for older adults. The additional evidence on social isolation and loneliness as challenges for older adults also makes the story more impactful and emphasizes the need for action. I think this change also makes the narrative stand stronger.  
 
-To improve narrative clarity, I rearranged the story's structure. The opening now focuses on the broader demographic shifts and explores the potential risks and societal impacts of the increasing aging population. It then zooms in on California and the Bay Area to make the audience compare the region with the bigger picture. 
+To improve narrative clarity, I rearranged the story's structure by incorporating the feedback shared with me during the user interviews. The opening now focuses on the broader demographic shifts and explores the potential risks and societal impacts of the increasing aging population. It then zooms in on California and the Bay Area to make the audience compare the region with the bigger picture. 
+
+
 
 I intentionally made the story more high-level. It serves as an introduction for art administrators who may not yet have considered the aging population as part of their art programs or might not know much about the aging population's needs in art. There are positive case studies that show the positive outcomes of involving older adults in the arts. I hope this can encourage the audience to evaluate their current programs or develop new initiatives tailored to older adults. 
 
+The call to action was not fully developed in the last draft. I added some helpful links and the resources found during the research of this project. Often, museum staff might be familiar with one statistic or another resource but may not have a fuller list of the actionable items. The CTA can direct them where to search and how they might use this article as a conversation starting point among peers. 
+
 
 The design:
+So many design changes!
 
+- I added the headers for each section. 
 - I followed the feedback from the professor and removed the life expectancy graph as it didn’t align with the narrative.
 - Based on user feedback, I redesigned the graph "comparing the life priorities of older and younger adults." I separated the desires for "having fun" and "social connection" into two graphs. Each graph highlights its indicated factor. As the reader scrolls down the page, the graphs become like GIFs showing visual distinction.
-- "The population of people age 65+ outnumbering children in 2034," I  added a title and improved the labeling for clarity.
-- I added a few new graph:
-Bay Area Aging Faster than the National Median: To compare county-level data with the national median age, I used a lighter color for the U.S. data to help emphasize local trends.
-Risk of Social Isolation Among Older Adults by State: I changed this data from an interactive map into a dot plot. I ranked the states from highest to lowest. I think this format makes identifying trends easier than the map. The original graph grouped values into five color categories, and it can be difficult to see the specific state compared to the rest of the nation.
+- "The population of people age 65+ is projected to outnumber children in 2034," I  added a title and improved the labeling for clarity. I also adjusted the population number and placed it above the two figures to show this information at a higher hierarchy on the graph.  
+  
+- I added a few new graph to support the narrative:
+Bay Area Aging Faster than the National Median: To compare county-level data with the national median age, I used a trend line for the U.S. data to help emphasize local trends. The original data included the U.S. median age change as a bar at the end of the graph. I think having the trend line makes the audience focus on the Bay Area counties and the comparative element more.
+
+Risk of Social Isolation Among Older Adults by State: I changed this data from the an interactive map (as seen on the data source website) into a dot plot. I ranked the states from highest to lowest. I think this format makes identifying trends easier than the map. The original graph grouped values into five color categories, and it can be difficult to see the specific state compared to the rest of the nation.
   
 Overall color scheme:
 
-I chose a simple color scheme. Orange is a sunset color, and it can be interpreted as one's later time in life. Yellow often represents brightness and youth, therefore symbolizing younger generations.
+I chose a simple color scheme. Orange is a sunset color, and it can be interpreted as one's later time in life. Yellow often represents brightness and youth, therefore symbolizing younger generations. I added a green color to describe something that is not age-related. All colors are consistent with their color codes (the ## or the ff). 
 
 
 Observations: 
@@ -81,4 +89,9 @@ Vespa, Jonathan, Lauren Medina, and David M. Armstrong. “Demographic Turning P
 
 # Final Thoughts
 
+This is such a rewarding experience when I have the finished website. Throughout the whole process, I found the most difficult was to create an informative yet interesting storyline to make the audience stay connected. The other challenging part is redesigning the data from some pre-graphed resources. To re-interpret something that might be already clear, take some creative time. As for the tool,  I really enjoyed using Datawrapper to create the data graph. Although the settings for color are especially limited compared to Tableau, it is still a great tool to begin with data visualization brainstorming. I  also used Canva a lot to create the animated and bar graphs. 
+
+As for the unsplash images, I wish there were more options for me to choose from. I didn't want to risk the copyright code, so I inserted all images that were available from Unsplash.
+
+Lastly, I am happy with my project. I have not used many of the data tools or know the design ideas, but through the workbook exercises and class challenges, I have gained so much more understanding. I incorporated my learning into this project, and as I am writing this, I still want to go back to shorthand to spot changes. After all, I believe this is just the beginning of my data via learning; the journey is to be continued. 
 
