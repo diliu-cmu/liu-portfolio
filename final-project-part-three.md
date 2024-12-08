@@ -61,7 +61,7 @@ Crocker, Kristen. “New Studies Suggest Social Isolation Is a Risk Factor for D
 
 “CT2017-Top-Line-Report.Pdf - Culture Track.” Culturetrack. Accessed December 6, 2024. https://s28475.pcdn.co/wp-content/uploads/2019/06/CT2017-Top-Line-Report.pdf. 
 
-“Explore Risk of Social Isolation - Age 65+ in the United States: Ahr.” Explore Risk of Social Isolation - Age 65+ in the United States | AHR. Accessed December 6, 2024. https://www.americashealthrankings.org/explore/measures/isolationrisk_sr_b. 
+“Explore Risk of Social Isolation - Age 65+ in the United States: Ahr.” Explore Risk of Social Isolation - Age 65+ in the United States  AHR. Accessed December 6, 2024. https://www.americashealthrankings.org/explore/measures/isolationrisk_sr_b. 
 
 Humble, Laurel. “Moma Prime Timers’ Thoughts on Aging and Art.” Inside/Out A MoMA/MoMA PS1 Blog, May 18, 2016. https://www.moma.org/explore/inside_out/2016/05/18/prime-timers-thoughts-on-aging-and-art/. 
 
