@@ -138,31 +138,31 @@ The call to action should include examples of best practices and resources that 
 The interviewee made a great point about being consistent in describing the age distribution. He emphasized that all the adult populations I reference or include in data visualizations should focus specifically on those aged 65 and older because most Americans are still working at age 55, and including this group could dilute the focus on retirees and the aging population who are the primary target of the narrative. 
 
 
-## Interview 3 (Verbatim Notes)
+## Interview 3 
 
 **Can you identify the target audience of this story - who is the story speaking to?**
 
-“From the first section's line, "... many of us are establishing initiatives...", my initial assumption was that the intended audience were museum professionals currently in the field. In particular, it seemed that this was targeted towards museum professionals in the Bay Area ("... celebrated for our rich cultural diversity...").”
+Targeted audience is clear. The opening lines suggest the intended audience is current museum professionals, particularly those in the Bay Area.
 
 **Do you understand what the story is about and why it matters? Does this story inspire an interest in change**
 
-“Somewhat-- From what I understand, the narrative informs the reader about how art museums within the Bay Area are lacking in programming for older adults and that these needs should be considered (which are not all too different from those of younger populations for whom programming already exists). The information makes sense, but I might suggest starting with big picture ideas (looking at the aging population and anticipating what art museums should prepare for or are doing around the United States) and then focusing on the Bay Area. You begin with the Bay Area, bring up nationwide stats, and then zero back in, which makes it feel a little confusing without re-reading.”
+Somewhat clear. The narrative informs the reader of the lack of programming for older adults in Bay Area art museums, emphasizing the need to address the issue. The interviewee suggested to adjust the structure of the story. Starting with big-picture ideas like looking at the aging population and anticipating what art museums should prepare for or are doing around the United States, then focusing on the Bay Area. The current flow is a bit confusing.
 
 **Do you understand each graph and its interpretation? Does each graph convey trueness, completeness, and perceptibility?**
 
-“Mildly so. Each graph could be better integrated into the narrative itself, so that I can better connect the text to the information being presented. What I've previously found most helpful was ordering it like: opening idea, graph, analysis, explanation of relevance, and so on. The graphs themselves could better convey trueness by including clearer titles and sources. The perceptibility is the current strength amongst the graphs, as I can understand the base information being portrayed (i.e. I can understand that a pie chart is denoting funding differences to me). “
+Mildly clear. The graphs should be integrated into the narrative and connected better with the text. Suggested method is 1)idea, 2)graph 3)analysis. The graphs should include clearer titles and sources to enhance credibility.
 
 **If the data visualization is not clear in conveying the story (or simply not clear in design), what adjustments and changes would you suggest?**
 
-“The graphic that shows the population of those 65 years and up versus those under 18 could use a title; I was unsure whether or not it was connected to projected numbers or current numbers. As much as I like the life expectancy bar graph, I didn't immediately connect it to the narrative. This, and the previous chart, might work well if it was integrated between text or accompanied by some insight into why the information is important. “
+The graphic that shows the population of those 65 years and up versus those under 18 could use a title. The life expectancy did not connect with the narrative.
 
 **Are there any gaps in the narrative and data? What would you like to see that is missing in the story?**
 
-“For the "All Generations Crave New Things..." bar charts, it might be interesting to provide a breakdown of what is "new" (i.e. technological experiences, new mediums, etc...). For the call to action, what might be most helpful to equip museum professionals with would be resources or toolkits that others have developed towards elder programming. Alternatively, suggestions as to how they can begin implementation of this programming or begin to make their space feel more included. Much of the narrative focuses on the why (the statistics at the beginning) and the what (the positive outcomes, the MoMA case study), but does not highlight the how (are there accessible grants museums should apply to? considerations for marketing to an older audience? etc...).”
+For the "All Generations Crave New Things..." bar charts, it might be interesting to provide a breakdown of what is "new." The call to action might include resources or toolkits others have developed. While the narrative focuses on the "why" (statistics) and "what" (positive outcomes and case studies), it lacks focus on the "how," such as accessible grants, marketing strategies for older audiences, or steps to create inclusive spaces.
 
 **Additional Feedback**
 
-“While low on the priority list, the orange text against some of the backdrops is somewhat difficult/uncomfortable to read due to the saturation and lack of contrast. In particular, referring to the "Percent of U.S. Adult Visiting..." header. Additionally, go multi-model and use more hyperlinks/sources! “
+the orange text against some of the backdrops is somewhat difficult/uncomfortable to read due to the saturation and lack of contrast. 
 
 
 
