@@ -1,7 +1,7 @@
 | [home page](https://diliu-cmu.github.io/liu-portfolio/) | [visualizing-government-debt](visualizing-government-debt) | [Critique-by-design](Critique-by-design) | [final-project-part-one](final-project-part-one) | [final-project-part-two](final-project-part-two) | [final-project-part-three](final-project-part-three) |
 
 # The Final Story
-> link to shorthand : https://carnegiemellon.shorthandstories.com/aid-non-profit-organisation-annual-report/index.html
+> link to the story : https://carnegiemellon.shorthandstories.com/connect-aging-population-with-art-museums-in-the-bay-area/index.html
 
 # Changes Made Since Part One
 
